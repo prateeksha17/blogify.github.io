@@ -1,0 +1,16 @@
+
+
+.photo{
+    margin-top: 0;
+    background-image:url('background.jpg') ;
+    outline: 1px solid black;
+   
+    opacity: 0.2;
+    position: absolute;
+    background: cover;
+    
+}
+
+.tata{
+    position: relative;
+}
