@@ -13,7 +13,7 @@ const Contact = () => {
     <div className="contact-left">
       <h1 className="sub-title">Contact</h1>
       <p><i className="fa-solid fa-paper-plane"></i>prateeksha8177@gmail.com</p>
-      <p><i className="fa-solid fa-phone"></i>6387859200</p>
+      <p><i className="fa-solid fa-phone"></i>63******0</p>
       <div className="social-icons">
         <a href="https://www.instagram.com/argh.urgh/"> <i className="fa-brands fa-instagram"></i></a>
         <a href="https://www.linkedin.com/in/prateeksha-pandey-75898223a/"> <i className="fa-brands fa-linkedin"></i></a>
